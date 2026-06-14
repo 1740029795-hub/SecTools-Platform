@@ -1,0 +1,17 @@
+{
+  "external_tools": {
+    "nmap": "nmap",
+    "sqlmap": "",
+    "dirb": "",
+    "nikto": ""
+  },
+  "proxy": {
+    "enabled": false,
+    "http": "",
+    "https": ""
+  },
+  "theme": "dark",
+  "language": "zh_CN",
+  "max_threads": 10,
+  "timeout": 30
+}
